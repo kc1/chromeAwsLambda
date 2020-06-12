@@ -1,0 +1,9 @@
+https://stackify.com/aws-lambda-with-node-js-a-complete-getting-started-guide/
+
+https://www.serverless.com/blog/serverless-local-development/
+
+$ serverless plugin install --name serverless-offline
+
+https://nadeesha.github.io/headless-chrome-puppeteer-lambda-servelerless/
+
+https://blog.codecentric.de/en/2019/08/developing-aws-locally-with-serverless-offline-plugins/

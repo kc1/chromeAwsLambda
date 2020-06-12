@@ -1,0 +1,10 @@
+{
+  "name": "my-service",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless": "^1.72.0",
+    "serverless-offline": "^6.4.0"
+  }
+}
