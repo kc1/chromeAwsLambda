@@ -2,7 +2,7 @@
 
   const chromium = require('chrome-aws-lambda');
   const os = require('os');
-  // let myPath = null;
+  let myPath = null;
 
 
   // if (os.platform == 'win32') {
